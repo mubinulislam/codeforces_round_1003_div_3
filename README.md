@@ -1,2 +1,3 @@
-# codeforces_round_1003_div_3
- round_1003_div_3_Contest
+# Codeforces round 1003 Div. 4 (not Div. 3)
+ My very first CodeForces contest. I solved only 1 problem, and the second one i couldnt implement the logic due to being extreamly slow.
+ But I will continue my journey.
